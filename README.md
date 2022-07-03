@@ -10,4 +10,6 @@ Hello there, I'm Georgi 👋
 
 
 🔥 My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=georgikirilovdev)](https://git.io/streak-stats)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=georgikirilovdev&theme=chartreuse-dark)](https://git.io/streak-stats)
