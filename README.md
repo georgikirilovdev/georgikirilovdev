@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello there, I'm Georgi 👋
 
-<!--
-**georgikirilovdev/georgikirilovdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on my education as a developer
+🌱 I’m currently learning on programming with Python
+👯 I’m looking to collaborate on many different and interesting projects
+💬 You can aske me about anything
+📫 You can reach me on email: kirilov.georgi1214@gmail.com
+⚡ Fun fact: What’s a programmer’s favourite hangout place? Foo Bar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔥 My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=georgikirilovdev)](https://git.io/streak-stats)
